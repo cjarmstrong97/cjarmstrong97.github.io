@@ -1,0 +1,11 @@
+# website options
+title: Caleb Armstrong
+description: Personal pages for personal use
+
+# theme options
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
+color_scheme: dark
+
+# footer content
+back_to_top: true
+back_to_top_text: "Back to top"
